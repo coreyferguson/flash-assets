@@ -1,0 +1,5 @@
+
+cors:
+  allowedOrigins:
+    - https://flash.overattribution.com:9000
+cloudFrontAlias: flash-assets.overattribution.com
